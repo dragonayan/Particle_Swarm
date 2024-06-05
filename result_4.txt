@@ -1,0 +1,1 @@
+Grid Size: (25, 25),  Execution Time: 0.8264 seconds

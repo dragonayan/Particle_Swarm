@@ -1,0 +1,6 @@
+Grid Size: (10, 10),  Execution Time: 0.6941 seconds
+Grid Size: (15, 15),  Execution Time: 0.5202 seconds
+Grid Size: (20, 20),  Execution Time: 1.8263 seconds
+Grid Size: (25, 25),  Execution Time: 0.8264 seconds
+Grid Size: (30, 30),  Execution Time: 3.9953 seconds
+Grid Size: (35, 35),  Execution Time: 1.6803 seconds
